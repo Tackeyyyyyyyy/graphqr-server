@@ -1,1 +1,0 @@
-{"pluginName":"jetbrains","installationId":"fe652cc2-3403-4370-b3f3-377a0c06ff5e","pluginVersion":"1.0.24-203.241","ideVersion":"IntelliJ IDEA 2021.2.3 / IU-212.5457.46","operatingSystem":"Mac OS X 12.0.1","eventType":"onPluginInstall","eventTime":"2025-05-04 09:51:58.526+0000","eventData":{}}
