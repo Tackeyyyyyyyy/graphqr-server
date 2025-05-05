@@ -25,6 +25,7 @@ datasource db {
     email String  @unique
     name  String?
     posts Post[]
+    password String  @default("")
   }
 
   model Post {
